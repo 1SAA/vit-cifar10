@@ -1,0 +1,7 @@
+BATCH_SIZE = 512
+LEARNING_RATE = 1e-3
+
+NUM_EPOCHS = 60
+WARMUP_EPOCHS = 5
+
+parallel = dict()
